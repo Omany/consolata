@@ -13,7 +13,7 @@ For more feature please see the E-R Diagram of the project
 ### Technologies Used
 
 #### Java : NetBeans
-#### DBMS : Wamp server (MySql)
+#### DBMS : Xampp server (MySql)
 
 
 |  **E-R Diagram Of Project** |
@@ -21,11 +21,7 @@ For more feature please see the E-R Diagram of the project
 | ![er diagram](https://user-images.githubusercontent.com/11665612/27264691-c5e7ec4a-54a1-11e7-93be-677a1772a4ea.png) |
 
 
-#### For any suggestion contact me at : https://kvikesh800.wixsite.com/learner/contact
-
 ##### To see the Screenshots of project go to the Screenshots folder of the repository
 
-
-The other two contributers of project are : **Sumit Kumar and Vivek Singh Rana**
 
 
